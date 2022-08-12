@@ -27,10 +27,11 @@
 </p>
 <h4 align="center">Study</h4>
 <p align="center">
-<a href="https://en.wikipedia.org/wiki/Operating_system" target="_blank"><img src="https://img.shields.io/badge/Operating System-B1624E?style=flat-square&logo=microsoft&logoColor=white"/></a>
-<a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank"><img src="https://img.shields.io/badge/Data Structure-603F83?style=flat-square&logo=Stackbit&logoColor=white"/></a><br>
+<a href="https://en.wikipedia.org/wiki/Operating_system" target="_blank"><img src="https://img.shields.io/badge/Operating System Theory-B1624E?style=flat-square&logo=microsoft&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank"><img src="https://img.shields.io/badge/Data Structure Theory-603F83?style=flat-square&logo=Stackbit&logoColor=white"/></a><br>
 <a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank"><img src="https://img.shields.io/badge/Argorithm-2BAE66?style=flat-square&logo=React Router&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/Reverse_engineering" target="_blank"><img src="https://img.shields.io/badge/Reverse Engineering-6E6E6D?style=flat-square&logo=Serverless&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/Compiler" target="_blank"><img src="https://img.shields.io/badge/Compiling Theory-2D2926?style=flat-square&logo=Conventional Commits&logoColor=white"/></a>
 </p>
 
 <h3 align="center">😎 Interested in ...</h3>
