@@ -33,6 +33,13 @@
 <a href="https://en.wikipedia.org/wiki/Reverse_engineering" target="_blank"><img src="https://img.shields.io/badge/Reverse Engineering-6E6E6D?style=flat-square&logo=Serverless&logoColor=white"/></a>
 </p>
 
+<h3 align="center">😎 Interested in ...</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Something NEW-2D2926?style=flat-square&logo=OnePlus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Develop Hobby OS-616247?style=flat-square&logo=macOS&logoColor=white"/>
+<img src="https://img.shields.io/badge/1 Day 1 Commit-364b44?style=flat-square&logo=GitHub&logoColor=white"/>
+</p>
+
 <h3 align="center">📚 Certificates</h3>
 <p align="center">
 <a href="http://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=6921" target="_blank"><img src="https://img.shields.io/badge/정보처리기능사 | 2022-50586C?style=flat-square&logo=amazonec2&logoColor=white"/></a>
