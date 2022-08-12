@@ -1,16 +1,41 @@
-### Hi there 👋
+<h1></h1>
 
-<!--
-**prgmrDoHan/prgmrDoHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">📌 Links</h3>
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDohan-lab&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a><br>
+  <a href="https://dohanspace.notion.site/Kwon-DoHan-34f1bf3dssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss841c4a70ba7c8bcbf941c443" target="_blank"><img src="https://img.shields.io/badge/Notion-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://discord.com/channels/@me/795869602566635540" target="_blank"><img src="https://img.shields.io/badge/Discord-331B3F?style=flat-square&logo=Discord&logoColor=white"/></a>
+  <a href="mailto:barcode.k1011@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0A174E?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <br>
+  <a href="https://www.buymeacoffee.com/dohan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">🖥 Skills</h3>
+<h4 align="center">Programming Language</h4>
+<p align="center">
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C Lang-B1624E?style=flat-square&logo=C&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.shields.io/badge/Cpp-603F83?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/Python-2BAE66?style=flat-square&logo=Python&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://img.shields.io/badge/Assembler-6E6E6D?style=flat-square&logo=arm&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML, CSS, JS-2D2926?style=flat-square&logo=html5&logoColor=white"/></a> <br>
+<a href="https://en.wikipedia.org/wiki/TypeScript" target="_blank"><img src="https://img.shields.io/badge/TypeScript-616247?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/Java-364b44?style=flat-square&logo=CoffeeScript&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C%23-343148?style=flat-square&logo=sharp&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)" target="_blank"><img src="https://img.shields.io/badge/React.js-422057?style=flat-square&logo=react&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/Next.js" target="_blank"><img src="https://img.shields.io/badge/Next.js-243665?style=flat-square&logo=next.js&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/Vue.js" target="_blank"><img src="https://img.shields.io/badge/Vue.js-317773?style=flat-square&logo=vue.js&logoColor=white"/></a>
+</p>
+<h4 align="center">Study</h4>
+<p align="center">
+<a href="https://en.wikipedia.org/wiki/Operating_system" target="_blank"><img src="https://img.shields.io/badge/Operating System-B1624E?style=flat-square&logo=microsoft&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank"><img src="https://img.shields.io/badge/Data Structure-603F83?style=flat-square&logo=Stackbit&logoColor=white"/></a><br>
+<a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank"><img src="https://img.shields.io/badge/Argorithm-2BAE66?style=flat-square&logo=React Router&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/Reverse_engineering" target="_blank"><img src="https://img.shields.io/badge/Reverse Engineering-6E6E6D?style=flat-square&logo=Serverless&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">📚 Certificates</h3>
+<p align="center">
+<a href="http://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=6921" target="_blank"><img src="https://img.shields.io/badge/정보처리기능사 | 2022-50586C?style=flat-square&logo=amazonec2&logoColor=white"/></a>
+</p>
+
+<h1></h1>
