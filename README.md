@@ -18,6 +18,7 @@
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/Python-2BAE66?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://img.shields.io/badge/Assembler-6E6E6D?style=flat-square&logo=arm&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML, CSS, JS-2D2926?style=flat-square&logo=html5&logoColor=white"/></a> <br>
+<a href="https://en.wikipedia.org/wiki/Node.js" target="_blank"><img src="https://img.shields.io/badge/Node.js-02343F?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/TypeScript" target="_blank"><img src="https://img.shields.io/badge/TypeScript-616247?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/Java-364b44?style=flat-square&logo=CoffeeScript&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C%23-343148?style=flat-square&logo=sharp&logoColor=white"/></a>
