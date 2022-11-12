@@ -8,8 +8,6 @@
   <a href="mailto:barcode.k1011@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0A174E?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <br>
   <a href="https://www.buymeacoffee.com/dohan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-  <br>
-  <a href="https://discord.com/users/795869602566635540" target="_blank"><img src="https://lanyard.cnrad.dev/api/795869602566635540?animated=true&idleMessage=&bg=d0c8e6&theme=light" alt="Discord Profil" style="width: 400px !important;"></a>
 </p>
 
 <h3 align="center">🖥 Skills</h3>
