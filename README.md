@@ -4,10 +4,12 @@
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDohan-lab&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a><br>
   <a href="https://bit.ly/3pLMann" target="_blank"><img src="https://img.shields.io/badge/Notion-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
-  <a href="https://discord.com/channels/@me/795869602566635540" target="_blank"><img src="https://img.shields.io/badge/Discord-331B3F?style=flat-square&logo=Discord&logoColor=white"/></a>
+  <a href="https://discord.com/users/795869602566635540" target="_blank"><img src="https://img.shields.io/badge/Discord-331B3F?style=flat-square&logo=Discord&logoColor=white"/></a>
   <a href="mailto:barcode.k1011@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0A174E?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <br>
   <a href="https://www.buymeacoffee.com/dohan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  <br>
+  <a href="https://discord.com/users/795869602566635540" target="_blank"><img src="https://lanyard.cnrad.dev/api/795869602566635540?animated=true&idleMessage=&bg=d0c8e6&theme=light" alt="Discord Profil" style="width: 400px !important;"></a>
 </p>
 
 <h3 align="center">🖥 Skills</h3>
